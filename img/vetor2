@@ -1,0 +1,27 @@
+<svg viewBox="0 0 480 320" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="320" rx="16" fill="#EEF2F6"/>
+  <rect width="480" height="40" rx="16" fill="#101828"/>
+  <rect width="480" height="20" y="20" fill="#101828"/>
+  <circle cx="24" cy="20" r="6" fill="#F5A623"/>
+  <circle cx="46" cy="20" r="6" fill="#0F9D8B"/>
+  <circle cx="68" cy="20" r="6" fill="#6C63FF"/>
+
+  <!-- conteudo: catalogo/loja -->
+  <rect x="30" y="65" width="150" height="16" rx="6" fill="#101828" opacity="0.85"/>
+  <rect x="380" y="65" width="70" height="26" rx="13" fill="#0F9D8B"/>
+
+  <rect x="30" y="105" width="130" height="150" rx="10" fill="#FFFFFF"/>
+  <rect x="42" y="115" width="106" height="90" rx="8" fill="#6C63FF" opacity="0.35"/>
+  <rect x="42" y="215" width="80" height="10" rx="5" fill="#D0D5DD"/>
+  <rect x="42" y="232" width="50" height="12" rx="6" fill="#0F9D8B"/>
+
+  <rect x="175" y="105" width="130" height="150" rx="10" fill="#FFFFFF"/>
+  <rect x="187" y="115" width="106" height="90" rx="8" fill="#F5A623" opacity="0.35"/>
+  <rect x="187" y="215" width="80" height="10" rx="5" fill="#D0D5DD"/>
+  <rect x="187" y="232" width="50" height="12" rx="6" fill="#0F9D8B"/>
+
+  <rect x="320" y="105" width="130" height="150" rx="10" fill="#FFFFFF"/>
+  <rect x="332" y="115" width="106" height="90" rx="8" fill="#0F9D8B" opacity="0.35"/>
+  <rect x="332" y="215" width="80" height="10" rx="5" fill="#D0D5DD"/>
+  <rect x="332" y="232" width="50" height="12" rx="6" fill="#0F9D8B"/>
+</svg>
